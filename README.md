@@ -101,6 +101,7 @@ Questions can be asked by raising an `Issue`.
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
+- [Nate Lloyd](https://github.com/natelloyd1/)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Prashant Shukla](https://github.com/prashantlv)
